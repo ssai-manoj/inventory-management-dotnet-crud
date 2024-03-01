@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Product1",
+        "category": "Electronics",
+        "price": 378.26,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "name": "Product2",
+        "category": "Clothing",
+        "price": 391.66,
+        "stock": 68
+    },
+    {
+        "id": 3,
+        "name": "Product3",
+        "category": "Books",
+        "price": 427.09,
+        "stock": 63
+    },
+    {
+        "id": 4,
+        "name": "Product4",
+        "category": "Books",
+        "price": 398.72,
+        "stock": 85
+    },
+    {
+        "id": 5,
+        "name": "Product5",
+        "category": "Toys",
+        "price": 173.12,
+        "stock": 65
+    },
+    {
+        "id": 6,
+        "name": "Product6",
+        "category": "Home & Kitchen",
+        "price": 575.4,
+        "stock": 17
+    },
+    {
+        "id": 7,
+        "name": "Product7",
+        "category": "Toys",
+        "price": 152.94,
+        "stock": 71
+    },
+    {
+        "id": 8,
+        "name": "Product8",
+        "category": "Home & Kitchen",
+        "price": 299.76,
+        "stock": 55
+    },
+    {
+        "id": 9,
+        "name": "Product9",
+        "category": "Clothing",
+        "price": 899.34,
+        "stock": 84
+    },
+    {
+        "id": 10,
+        "name": "Product10",
+        "category": "Toys",
+        "price": 421.33,
+        "stock": 57
+    }
+]
